@@ -50,9 +50,8 @@
 
 ![](https://komarev.com/ghpvc/?username=Jujunju&color=blueviolet&style=flat-square)
 
-<h1 align="center">Play Games With Me</h1>
 
-###
+### Play Games With Me
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jujunju/Jujunju/output/pacman-contribution-graph-dark.svg">
@@ -64,6 +63,7 @@
 
 <img src="https://raw.githubusercontent.com/Jujunju/Jujunju/output/snake.svg" alt="Snake animation" />
 
+###
 ###
 
 
