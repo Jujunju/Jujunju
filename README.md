@@ -2,27 +2,65 @@
 
 <hr/>
 
-###  👨‍💻Full-Stack Web & Mobile Developer
+###  Full-Stack Web & Mobile Developer
+<hr/>
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+</div>
+
+###
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=Jujunju&color=blueviolet&style=flat-square)
+</div>
+
 <hr/>
 
 ### Tech Stack
+<hr/>
 
 ##### - Frontend
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react&theme=light)](https://skillicons.dev)
 
+<hr/>
+
 ##### - Backend
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,php,golang,java&theme=light)](https://skillicons.dev)
+
+<hr/>
 
 ##### - Mobile
 [![My Skills](https://skillicons.dev/icons?i=react&theme=light)](https://skillicons.dev)
 
+<hr/>
 
 ##### - Styling Frameworks
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind&theme=light)](https://skillicons.dev)
 
+<hr/>
 
 ##### - Database
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql&theme=light)](https://skillicons.dev)
+
+<hr/>
 
 <blockqoute>
 <i>- <b>Still in the learning process stage</b> </i>
@@ -36,7 +74,6 @@
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
 
@@ -46,12 +83,10 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jujunju&theme=github-dark-blue&hide_border=true)
 
-### Profile Views
-
-![](https://komarev.com/ghpvc/?username=Jujunju&color=blueviolet&style=flat-square)
-
+<hr/>
 
 ### Play Games With Me
+
 
 ###
 
