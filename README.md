@@ -11,16 +11,18 @@
 <hr/>
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&text=Welcome%20Bro👨‍💻&fontAlign=50&section=header&reversal=false&fontAlignY=40" />
 </div>
 
 ###
 
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  
 </div>
 
 ###
+
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
@@ -31,6 +33,8 @@
 </div>
 
 ###
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient" />
 
 <div align="center">
 
