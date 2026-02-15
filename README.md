@@ -11,7 +11,7 @@
 <hr/>
 
 <div>
-<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&text=Welcome%20Bro👨‍💻&fontAlign=50&section=header&reversal=false&fontAlignY=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&fontAlign=50&section=header&reversal=false&fontAlignY=40" />
 </div>
 
 ###
