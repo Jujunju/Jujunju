@@ -1,140 +1,52 @@
-![Jujun Junaedi](img/github-header-banner%20(1).png)
+# Halo, Saya Jujun Junaedi 👋
+### Fullstack Developer | Clean Architecture & TypeScript Enthusiast
 
-<hr/>
-<div align="center">
+Saya adalah seorang pengembang web yang sedang mendalami cara membangun aplikasi yang terstruktur dan rapi. Saya memiliki ketertarikan besar pada penerapan **Clean Architecture**, keamanan **TypeScript**, serta sedang aktif mempelajari solusi backend yang efisien menggunakan **Node.js** dan **Golang**.
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=9000&pause=1000&color=FFF&multiline=true&width=435&lines=Full-Stack+Web+%26+Mobile+Dev" alt="Typing SVG" /></a>
+---
 
+### 🚀 Tentang Saya
+- 🔭 **Proyek Saat Ini:** Mengembangkan **E-MADING** (Mading Digital) dengan fokus implementasi MERN Stack.
+- ⚡ **Prinsip Belajar:** Saya tipe orang yang lebih suka langsung mempraktikkan teori dan sangat memperhatikan kerapian struktur kode di setiap proyek.
+- 🌱 **Sedang Mendalami:** Optimasi database menggunakan **MySQL** dan pemahaman lebih dalam mengenai **System Design**.
+- 🏃 **Gaya Hidup:** Saya percaya kesehatan fisik mendukung pikiran yang tajam; saya rutin berolahraga beban untuk menjaga kebugaran.
+
+---
+
+### 🛠 Teknologi yang Saya Pelajari
+
+| Kategori | Keahlian |
+| :--- | :--- |
+| **Bahasa & Framework** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white) ![TS](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Nodejs](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Golang](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white) |
+| **Desain & UI** | ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white) |
+| **Database** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  |
+| **Alat Bantu** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) |
+
+---
+
+### 📂 Proyek Pilihan
+
+#### [E-MADING](https://github.com/Jujunju/RE-MADING)
+*Aplikasi Mading Digital dengan pendekatan Clean Architecture.*
+- **Stack:** MERN (MongoDB, Express, React, Node) + TypeScript.
+- **Fokus:** Belajar memisahkan logika bisnis (Entities & Use Cases) agar kode lebih mudah dikelola dan dikembangkan.
+- **Pencapaian:** Meraih predikat **Sangat Kompeten** dan Juara 1 dalam ujian kompetensi keahlian melalui pengujian industri.
+
+---
+
+### 📊 Statistik GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jujunju&show_icons=true&theme=transparent&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jujunju&layout=compact&theme=transparent&hide_border=true" height="150" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Mari Terhubung
+<div align="left">
+  <a href="https://www.linkedin.com/in/jujun-junaedi-36b3833a2/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="selamatgunakan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.instagram.com/sayjunz_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://web.facebook.com/profile.php?id=100079710377280"><img src="https://img.shields.io/badge/facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@Jujun-Dev"><img src="https://img.shields.io/badge/youtube-E4405F?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </div>
-
-
-<hr/>
-
-<div>
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&fontAlign=50&section=header&reversal=false&fontAlignY=40" />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-  
-</div>
-
-###
-
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-</div>
-
-###
-
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient" />
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=Jujunju&color=blueviolet&style=flat-square)
-</div>
-
-<hr/>
-
-<div align="center">
-
-### Tech Stack
-<hr/>
-
-#####  Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=light"/>
-
-<hr/>
-
-#####  Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,golang,java&theme=light"/>
-
-<hr/>
-
-#####  Mobile
-
-<img src="https://skillicons.dev/icons?i=react&theme=light"/>
-
-<hr/>
-
-#####  Styling Frameworks
-<img src="https://skillicons.dev/icons?i=bootstrap,tailwind&theme=light"/>
-
-
-<hr/>
-
-#####  Database
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=light"/>
-
-
-<hr/>
-
-<blockqoute>
-<i>- <b>Still in the learning process stage</b> </i>
-</blockqoute>
-
-<hr/>
-
-### Design Tools
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-</div>
-
-###
-
-<hr/>
-
-### My Github Stats
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Jujunju&theme=github-dark-blue&hide_border=true)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jujunju&bg_color=000000&color=2e4bc2&line=1a4eb7&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<hr/>
-
-### Play Games With Me
-
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jujunju/Jujunju/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jujunju/Jujunju/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Jujunju/Jujunju/output/pacman-contribution-graph.svg">
-</picture>
-
-
-###
-
-<img src="https://raw.githubusercontent.com/Jujunju/Jujunju/output/snake.svg" alt="Snake animation" />
-
-###
-
-</div>
-
-
-<!--
-**Jujunju/Jujunju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
