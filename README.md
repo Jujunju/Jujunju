@@ -6,9 +6,9 @@ Software Engineer yang berfokus pada pembangunan aplikasi web yang terstruktur, 
 ---
 
 ### 🚀 Highlights
-- 🏆 **Juara 1 & Predikat "Sangat Kompeten"** pada Uji Kompetensi Keahlian (UKK) melalui pengujian praktisi industri.
-- 🏗️ Fokus pada **Clean Architecture** (Entities, Use Cases, Repositories) untuk menjaga kualitas kode.
-- ⚡ Sedang mendalami optimasi backend menggunakan **Golang** dan **System Design**.
+- 🏆 **Pencapaian UKK :** Meraih predikat Sangat Kompeten dan Juara 1 pada ujian kompetensi keahlian.
+- 🏗️ **Architectural Interest :** Aktif menerapkan prinsip Clean Architecture untuk menghasilkan kode yang lebih rapi dan modular.
+- ⚡ **Tech Exploration :** Sedang mengeksplorasi ekosistem Golang dan konsep dasar **System Design**.
 
 ---
 
@@ -22,15 +22,13 @@ Software Engineer yang berfokus pada pembangunan aplikasi web yang terstruktur, 
 | **Databases** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) |
 | **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)  | 
 
----
-
-### 📂 Featured Project
+<!-- ### 📂 Featured Project
 
 #### [E-MADING ](https://github.com/Jujunju/RE-MADING)
 Aplikasi pengelolaan informasi digital sekolah dengan implementasi **Clean Architecture**.
 - **Tech:** MERN Stack + TypeScript.
 - **Key Focus:** Decoupling business logic, secure API, and scalable folder structure.
-- **Result:** Diuji langsung oleh praktisi industri dengan predikat kelulusan tertinggi.
+- **Result:** Diuji langsung oleh praktisi industri dengan predikat kelulusan tertinggi. -->
 
 ---
 
